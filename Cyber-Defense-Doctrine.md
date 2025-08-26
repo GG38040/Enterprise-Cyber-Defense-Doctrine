@@ -1,7 +1,8 @@
 ```markdown
 # Enterprise Cyber Defense Doctrine Manual
 
-**Aligning Cybersecurity Outcomes with Business Strategy**
+**Aligning Cybersecurity Outcomes with Business Strategy**  
+*An open-source doctrine for practitioners, leaders, and enterprises.*
 
 ---
 
@@ -22,7 +23,9 @@
 
 ## Preface: Why a Cyber Defense Doctrine Matters
 
-Cybersecurity today is often dominated by discussions of tools and technologies. Yet, true resilience emerges not from the latest software, but from **doctrine**: the guiding principles, organizational beliefs, and enduring practices that align defense actions to business objectives. This manual provides a comprehensive framework—rooted in first principles—for enterprises to craft a Cyber Defense Doctrine that integrates **People, Processes, and Capability** into business-aligned outcomes.
+Cybersecurity today is often dominated by discussions of tools and technologies. Yet, true resilience emerges not from the latest software, but from **doctrine**: the guiding principles, organizational beliefs, and enduring practices that align defense actions to business objectives. 
+
+This project is **open source** and designed for adaptation. Practitioners, SOC leaders, CISOs, and executives are encouraged to fork, tailor, and contribute back improvements. This manual provides a comprehensive framework—rooted in first principles—for enterprises to craft a Cyber Defense Doctrine that integrates **People, Processes, and Capability** into business-aligned outcomes.
 
 ---
 
@@ -31,7 +34,7 @@ Cybersecurity today is often dominated by discussions of tools and technologies.
 - **Doctrine over Tools:** Technology is transient; doctrine provides the enduring compass.
 - **Business Alignment:** Cybersecurity must protect and enable core business functions.
 - **Resilience as Strategy:** Cyber outcomes are measured in business continuity, trust, and adaptability.
-- **Continuous Learning:** Practitioners are lifelong learners.
+- **Continuous Learning:** Both technology and practitioners are lifelong learners.
 
 > **First Principle:** Security actions must always align with, and enable, the mission of the business.
 
@@ -43,18 +46,22 @@ Drawing on the NICE Workforce Framework (NIST SP 800-181r1):
 
 - **Competency-Based Roles:** Define work in terms of **Tasks, Knowledge, and Skills (TKS)**.
 - **Career Pathways:** Entry → Apprentice → Practitioner → Expert → Leader.
-- **Continuous Upskilling:** Emphasize cloud,secure coding, and CTEM readiness.
+- **Continuous Upskilling:** Emphasize cloud, AI, secure coding, and CTEM readiness.
 - **Practical Guidance:**
-  - Balance generalists (SOC) with specialists.
+  - Hire for skills, not just degrees.
+  - Balance generalists (SOC) with specialists (crypto, ICS, AI).
   - Build diversity as a resilience multiplier.
 
 **Visual Suggestion:** Career Path Pyramid showing growth from foundational analyst to strategic leader.
 
-**Field Card – Workforce Development:**
-- Hire on competencies.
-- Upskill continuously.
-- Diversify for resilience.
-- Tie every role to business outcomes.
+**Field Card – Workforce Development**
+
+| Action | Principle |
+|--------|-----------|
+| Hire   | Focus on competencies, not just degrees |
+| Upskill| Continuous learning in emerging domains |
+| Diversify | Build diverse teams for resilience |
+| Align | Tie roles to business outcomes |
 
 ---
 
@@ -71,13 +78,16 @@ Built on NIST CSF 2.0 Functions (Govern, Identify, Protect, Detect, Respond, Rec
 
 **Visual Suggestion:** CSF Wheel with Business Alignment Layer.
 
-**Field Card – Core Processes:**
-- Govern risk.
-- Identify assets.
-- Protect systems.
-- Detect anomalies.
-- Respond rapidly.
-- Recover trust.
+**Field Card – Core Processes**
+
+| Function | Focus |
+|----------|-------|
+| Govern   | Define risk appetite, integrate with ERM |
+| Identify | Inventory and map assets to business value |
+| Protect  | Apply layered safeguards (MFA, ZT, encryption) |
+| Detect   | Continuous monitoring and anomaly detection |
+| Respond  | Triage and contain without harming business |
+| Recover  | Restore trust, services, and confidence |
 
 ---
 
@@ -87,16 +97,19 @@ Capabilities = People + Process + Technology → Outcomes.
 
 - **Capabilities as Business Enablers:** Frame security outcomes in business terms (e.g., "ensuring uptime of digital payments" or "protecting customer trust").
 - **Teams, not Tools:** Use NICE Work Role models to design team compositions.
-- **AI as a Co-Pilot:** Analysts augmented by AI.
+- **AI as a Co-Pilot:** Analysts augmented by AI, not replaced.
 - **CTEM Integration:** Benchmark, emulate adversaries, remediate, re-test.
 
 **Visual Suggestion:** Venn diagram of People, Process, Technology intersecting to create Business-Aligned Capability.
 
-**Field Card – Capability Doctrine:**
-- Capabilities are team-driven.
-- Frame outcomes in business language.
-- Use AI responsibly.
-- Benchmark continuously.
+**Field Card – Capability Doctrine**
+
+| Action | Guideline |
+|--------|-----------|
+| Frame  | Express outcomes in business language |
+| Team   | Build capability through teams, not tools |
+| Augment | Use AI responsibly as co-pilot |
+| Test   | Benchmark continuously with CTEM |
 
 ---
 
@@ -109,11 +122,14 @@ Capabilities = People + Process + Technology → Outcomes.
 
 **Visual Suggestion:** Governance Flow (Board → Execs → Managers → Practitioners).
 
-**Field Card – Governance:**
-- Cyber = enterprise risk.
-- Define appetite & tolerance.
-- Integrate into ERM.
-- Oversee supply chain risk.
+**Field Card – Governance**
+
+| Action | Priority |
+|--------|----------|
+| Align  | Cybersecurity = Enterprise risk |
+| Define | Establish risk appetite & tolerance |
+| Integrate | Embed into ERM processes |
+| Oversee | Monitor supply chain risk |
 
 ---
 
@@ -121,16 +137,22 @@ Capabilities = People + Process + Technology → Outcomes.
 
 - **Doctrine → Strategy → Action:** Doctrine informs strategies; strategies shape operations.
 - **CSF Profiles & Tiers:** Use Current vs. Target Profiles to assess maturity and close gaps.
-- **Metrics:** Time-to-Detect, Time-to-Respond, Mean Time-to-Recover.
+- **Metrics:**
+  - **Time-to-Detect (TTD):** Target < 24 hours
+  - **Time-to-Respond (TTR):** Target < 12 hours
+  - **Mean Time-to-Recover (MTTR):** Target < 48 hours
 - **Playbooks:** Ensure containment and recovery decisions align with business continuity.
 
 **Visual Suggestion:** Maturity Roadmap from Tier 1 (Ad Hoc) to Tier 4 (Adaptive).
 
-**Field Card – Operationalization:**
-- Assess current vs. target.
-- Use maturity tiers.
-- Track metrics.
-- Run playbooks.
+**Field Card – Operationalization**
+
+| Action | Tool |
+|--------|-----|
+| Assess | Compare Current vs Target Profiles |
+| Mature | Apply CSF Tiers as roadmap |
+| Measure| Track TTD, TTR, MTTR |
+| Execute| Run tested playbooks |
 
 ---
 
@@ -143,11 +165,14 @@ Capabilities = People + Process + Technology → Outcomes.
 
 **Visual Suggestion:** Closed-loop Continuous Renewal Cycle.
 
-**Field Card – Renewal:**
-- Annual doctrine refresh.
-- Quarterly strategy updates.
-- Test with red teams.
-- Feed lessons back.
+**Field Card – Renewal**
+
+| Action | Frequency |
+|--------|-----------|
+| Refresh | Annually – doctrine review |
+| Update  | Quarterly – strategy adjustments |
+| Test    | Continuous red team exercises |
+| Learn   | Feed lessons into doctrine |
 
 ---
 
@@ -170,6 +195,24 @@ Each Field Card distills doctrine into actionable checklists:
 - **Appendix B:** NIST CSF 2.0 Core Functions and Tiers.
 - **Appendix C:** Enterprise Cyber Defense Benchmark Crosswalks (HTB 2025 Report).
 - **Appendix D:** Glossary of Terms.
+
+**Crosswalk Example:**
+
+| Doctrine Pillar | NIST CSF Function |
+|-----------------|-------------------|
+| People          | Govern, Protect   |
+| Process         | Identify, Detect, Respond, Recover |
+| Capability      | Govern, Protect, Detect, Respond |
+
+---
+
+## Case Study Example (Notional)
+
+**Scenario:** A global retailer detects ransomware spreading in its POS systems. 
+
+- **Containment (Doctrine):** SOC analysts apply triage—contain POS systems regionally rather than globally to minimize business disruption.
+- **Business Outcome:** Transactions in unaffected regions continue, protecting revenue streams.
+- **Lesson:** Applying medical-triage style doctrine avoids unnecessary enterprise-wide shutdowns.
 
 ---
 
