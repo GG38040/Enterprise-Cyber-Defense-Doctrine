@@ -34,7 +34,7 @@ This project is **open source** and designed for adaptation. Practitioners, SOC 
 - **Doctrine over Tools:** Technology is transient; doctrine provides the enduring compass.
 - **Business Alignment:** Cybersecurity must protect and enable core business functions.
 - **Resilience as Strategy:** Cyber outcomes are measured in business continuity, trust, and adaptability.
-- **Continuous Learning:** Both technology and practitioners are lifelong learners.
+- **Continuous Learning:** Practitioners are lifelong learners.
 
 > **First Principle:** Security actions must always align with, and enable, the mission of the business.
 
@@ -49,7 +49,7 @@ Drawing on the NICE Workforce Framework (NIST SP 800-181r1):
 - **Continuous Upskilling:** Emphasize cloud, AI, secure coding, and CTEM readiness.
 - **Practical Guidance:**
   - Hire for skills, not just degrees.
-  - Balance generalists (SOC) with specialists (crypto, ICS, AI).
+  - Balance generalists (SOC) with specialists.
   - Build diversity as a resilience multiplier.
 
 **Visual Suggestion:** Career Path Pyramid showing growth from foundational analyst to strategic leader.
@@ -58,7 +58,7 @@ Drawing on the NICE Workforce Framework (NIST SP 800-181r1):
 
 | Action | Principle |
 |--------|-----------|
-| Hire   | Focus on competencies, not just degrees |
+| Hire   | Focus on competencies |
 | Upskill| Continuous learning in emerging domains |
 | Diversify | Build diverse teams for resilience |
 | Align | Tie roles to business outcomes |
@@ -97,7 +97,7 @@ Capabilities = People + Process + Technology → Outcomes.
 
 - **Capabilities as Business Enablers:** Frame security outcomes in business terms (e.g., "ensuring uptime of digital payments" or "protecting customer trust").
 - **Teams, not Tools:** Use NICE Work Role models to design team compositions.
-- **AI as a Co-Pilot:** Analysts augmented by AI, not replaced.
+- **AI as a Co-Pilot:** Analysts augmented by AI.
 - **CTEM Integration:** Benchmark, emulate adversaries, remediate, re-test.
 
 **Visual Suggestion:** Venn diagram of People, Process, Technology intersecting to create Business-Aligned Capability.
