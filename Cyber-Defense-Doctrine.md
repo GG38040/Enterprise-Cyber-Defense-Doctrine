@@ -43,10 +43,9 @@ Drawing on the NICE Workforce Framework (NIST SP 800-181r1):
 
 - **Competency-Based Roles:** Define work in terms of **Tasks, Knowledge, and Skills (TKS)**.
 - **Career Pathways:** Entry → Apprentice → Practitioner → Expert → Leader.
-- **Continuous Upskilling:** Emphasize cloud, AI, secure coding, and CTEM readiness.
+- **Continuous Upskilling:** Emphasize cloud,secure coding, and CTEM readiness.
 - **Practical Guidance:**
-  - Hire for skills, not just degrees.
-  - Balance generalists (SOC) with specialists (crypto, ICS, AI).
+  - Balance generalists (SOC) with specialists.
   - Build diversity as a resilience multiplier.
 
 **Visual Suggestion:** Career Path Pyramid showing growth from foundational analyst to strategic leader.
@@ -88,7 +87,7 @@ Capabilities = People + Process + Technology → Outcomes.
 
 - **Capabilities as Business Enablers:** Frame security outcomes in business terms (e.g., "ensuring uptime of digital payments" or "protecting customer trust").
 - **Teams, not Tools:** Use NICE Work Role models to design team compositions.
-- **AI as a Co-Pilot:** Analysts augmented by AI, not replaced.
+- **AI as a Co-Pilot:** Analysts augmented by AI.
 - **CTEM Integration:** Benchmark, emulate adversaries, remediate, re-test.
 
 **Visual Suggestion:** Venn diagram of People, Process, Technology intersecting to create Business-Aligned Capability.
