@@ -31,7 +31,7 @@ Cybersecurity today is often dominated by discussions of tools and technologies.
 - **Doctrine over Tools:** Technology is transient; doctrine provides the enduring compass.
 - **Business Alignment:** Cybersecurity must protect and enable core business functions.
 - **Resilience as Strategy:** Cyber outcomes are measured in business continuity, trust, and adaptability.
-- **Continuous Learning:** Both technology and practitioners are lifelong learners.
+- **Continuous Learning:** Practitioners are lifelong learners.
 
 > **First Principle:** Security actions must always align with, and enable, the mission of the business.
 
