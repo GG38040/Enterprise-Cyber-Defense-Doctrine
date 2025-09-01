@@ -1,0 +1,24 @@
+<svg width="400" height="500" viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="500" fill="#002000"/>
+  <path d="M50 20 L350 20 L380 150 L200 480 L20 150 Z" stroke="#00ff00" fill="none" stroke-width="10"/>
+  <text x="200" y="80" font-size="40" fill="#00ff00" text-anchor="middle" font-family="Arial" font-weight="bold">DOCTRINE</text>
+  <circle cx="200" cy="220" r="100" stroke="#00ff00" fill="none" stroke-width="4"/>
+  <line x1="200" y1="120" x2="200" y2="320" stroke="#00ff00" stroke-width="2"/>
+  <ellipse cx="200" cy="220" rx="60" ry="100" stroke="#00ff00" fill="none" stroke-width="2"/>
+  <ellipse cx="200" cy="220" rx="30" ry="100" stroke="#00ff00" fill="none" stroke-width="2"/>
+  <line x1="100" y1="220" x2="300" y2="220" stroke="#00ff00" stroke-width="2"/>
+  <ellipse cx="200" cy="220" rx="100" ry="60" stroke="#00ff00" fill="none" stroke-width="2"/>
+  <ellipse cx="200" cy="220" rx="100" ry="30" stroke="#00ff00" fill="none" stroke-width="2"/>
+  <line x1="80" y1="320" x2="80" y2="380" stroke="#00ff00" stroke-width="3"/>
+  <line x1="80" y1="380" x2="120" y2="380" stroke="#00ff00" stroke-width="3"/>
+  <circle cx="120" cy="380" r="5" fill="#00ff00"/>
+  <line x1="320" y1="320" x2="320" y2="380" stroke="#00ff00" stroke-width="3"/>
+  <line x1="320" y1="380" x2="280" y2="380" stroke="#00ff00" stroke-width="3"/>
+  <circle cx="280" cy="380" r="5" fill="#00ff00"/>
+  <circle cx="200" cy="360" r="30" stroke="#00ff00" fill="none" stroke-width="3"/>
+  <polygon points="170,330 180,310 190,330" stroke="#00ff00" fill="none" stroke-width="3"/>
+  <polygon points="230,330 220,310 210,330" stroke="#00ff00" fill="none" stroke-width="3"/>
+  <circle cx="190" cy="355" r="5" fill="#00ff00"/>
+  <circle cx="210" cy="355" r="5" fill="#00ff00"/>
+  <polyline points="185,370 200,380 215,370" stroke="#00ff00" fill="none" stroke-width="3"/>
+</svg>
