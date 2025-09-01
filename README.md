@@ -1,3 +1,5 @@
+![Doctrine Logo](images/doctrine-logo.svg)
+
 # Enterprise Cyber Defense Doctrine Manual
 
 ## Overview
