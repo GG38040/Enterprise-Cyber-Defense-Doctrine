@@ -1,8 +1,10 @@
 ```markdown
+*An open-source doctrine for practitioners, leaders, and enterprises.*
+
 # Enterprise Cyber Defense Doctrine Manual
 
 **Aligning Cybersecurity Outcomes with Business Strategy**  
-*An open-source doctrine for practitioners, leaders, and enterprises.*
+
 
 ---
 
