@@ -50,7 +50,7 @@ Drawing on the NICE Workforce Framework (NIST SP 800-181r1):
 - **Career Pathways:** Entry → Apprentice → Practitioner → Expert → Leader.
 - **Continuous Upskilling:** Emphasize cloud, AI, secure coding, and CTEM readiness.
 - **Practical Guidance:**
-  - Hire for skills, not just degrees.
+  - Hire for aptitude and potential not just hard skills and degrees.
   - Balance generalists (SOC) with specialists.
   - Build diversity as a resilience multiplier.
 
