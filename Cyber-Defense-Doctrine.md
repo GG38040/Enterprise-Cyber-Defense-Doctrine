@@ -25,7 +25,7 @@
 
 ## Preface: Why a Cyber Defense Doctrine Matters
 
-Cybersecurity today is often dominated by discussions of tools and technologies. Yet, true resilience emerges not from the latest software, but from **doctrine**: the guiding principles, organizational beliefs, and enduring practices that align defense actions to business objectives. 
+Cybersecurity today is often overshadowed by discussions of tools and technologies. Yet, true resilience emerges not from the latest software, but from **doctrine**: the guiding principles, organizational beliefs, and enduring practices that align defense actions to business objectives. 
 
 This project is **open source** and designed for adaptation. Practitioners, SOC leaders, CISOs, and executives are encouraged to fork, tailor, and contribute back improvements. This manual provides a comprehensive framework—rooted in first principles—for enterprises to craft a Cyber Defense Doctrine that integrates **People, Processes, and Capability** into business-aligned outcomes.
 
