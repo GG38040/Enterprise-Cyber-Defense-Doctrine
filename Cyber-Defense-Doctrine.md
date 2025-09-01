@@ -193,7 +193,6 @@ Each Field Card distills doctrine into actionable checklists:
 
 - **Appendix A:** NICE Framework Alignment (Tasks, Knowledge, Skills).
 - **Appendix B:** NIST CSF 2.0 Core Functions and Tiers.
-- **Appendix C:** Enterprise Cyber Defense Benchmark Crosswalks (HTB 2025 Report).
 - **Appendix D:** Glossary of Terms.
 
 **Crosswalk Example:**
