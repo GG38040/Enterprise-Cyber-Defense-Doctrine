@@ -194,6 +194,128 @@ Each Field Card distills doctrine into actionable checklists:
 ## Appendices
 
 - **Appendix A:** NICE Framework Alignment (Tasks, Knowledge, Skills).
+---
+title: Appendix A — NICE Framework Alignment (Tasks, Knowledge, Skills)
+description: How the Enterprise Cyber Defense Doctrine implements the NICE Framework’s TKS building blocks, Competencies, Work Roles, and Teams.
+---
+
+# Appendix A — NICE Framework Alignment (Tasks, Knowledge, Skills)
+
+This appendix shows **how to operationalize the Doctrine’s People pillar** using the **NICE Framework (NIST SP 800-181r1)** and its modern, modular building blocks: **Tasks (T)**, **Knowledge (K)**, and **Skills (S)** — together “**TKS**.” The NICE refactor deprecates prior **Categories/Specialty Areas** in favor of agile, interoperable **TKS building blocks** that support tailored **Competencies**, **Work Roles**, and **Teams**. :contentReference[oaicite:0]{index=0}
+
+---
+
+## A1. Core Concepts (NICE TKS)
+
+- **Task (T):** an activity directed toward achieving organizational objectives (business, technology, mission). Tasks describe **the work** and should use your org’s language. :contentReference[oaicite:1]{index=1}  
+- **Knowledge (K):** a retrievable set of concepts within memory. :contentReference[oaicite:2]{index=2}  
+- **Skill (S):** the capacity to perform an observable action. :contentReference[oaicite:3]{index=3}  
+
+NICE explicitly frames **Tasks** as “the work” and **K/S** as attributes of “the learner,” and links them so learners demonstrate K/S to complete Tasks. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+
+> **Why TKS?** It gives a common, flexible language to describe work and workers, improving clarity across orgs, sectors, and education/training providers. :contentReference[oaicite:6]{index=6}
+
+---
+
+## A2. Using and Creating TKS Statements
+
+**Use existing TKS** from the NICE Resource Center; you can tailor associations (e.g., attach additional K/S to a Task) for your context. :contentReference[oaicite:7]{index=7}  
+**Create new TKS** when needed for your unique context — but don’t edit existing TKS text to preserve interoperability. :contentReference[oaicite:8]{index=8}
+
+> NICE emphasizes **agility, flexibility, interoperability, and modularity** as design attributes. :contentReference[oaicite:9]{index=9}
+
+---
+
+## A3. Competencies (Assessment-Ready Bundles)
+
+**Competencies** bundle the TKS needed to show someone can perform a coherent body of work — with an **assessment method** (e.g., lab, test, portfolio). You may tailor the **TKS included** for your context, but should **not change** the title/description of an existing NICE Competency; create a new one if wording must differ. :contentReference[oaicite:10]{index=10}
+
+NICE shows concrete Competency examples (e.g., **Data Analysis**), including sample tasks/skills/knowledge and an assessment approach. :contentReference[oaicite:11]{index=11} :contentReference[oaicite:12]{index=12}
+
+---
+
+## A4. Work Roles (Work-Centered Groupings)
+
+**Work Roles** group Tasks for which someone is responsible or accountable; the K/S needed flow **transitively** from the Tasks. This keeps roles flexible and avoids locking into static K/S lists. :contentReference[oaicite:13]{index=13}
+
+- Keep Work Role names/descriptions stable for interoperability; create a **new role** rather than modifying an existing one. :contentReference[oaicite:14]{index=14}  
+- NICE R1 supports creating **new roles** and still permits using the **2017 role set** (maintained separately by NICE). :contentReference[oaicite:15]{index=15}
+
+---
+
+## A5. Teams (Top-Down via Roles or Bottom-Up via Competencies)
+
+- **Build Teams with Work Roles** (top-down from objectives/work to lifecycle phases to roles). NICE provides examples for secure SDLC and CSF-aligned cyber teams. :contentReference[oaicite:16]{index=16} :contentReference[oaicite:17]{index=17}  
+- **Build Teams with Competencies** (bottom-up when precise Tasks are unknown, but needed Competencies are known). :contentReference[oaicite:18]{index=18}
+
+---
+
+## A6. Doctrine ↔ NICE Crosswalk (How We Apply TKS)
+
+| Doctrine Chapter | NICE Focus | How to Use TKS/Competencies |
+|---|---|---|
+| **People** | **GV.RR/PR.AT** in CSF (roles, resourcing, training) are realized by **Work Roles** and **Competencies** built from TKS. Use **existing** TKS → assemble **Competencies** → define **Work Roles** → set assessments. :contentReference[oaicite:19]{index=19} :contentReference[oaicite:20]{index=20} |
+| **Processes** | Convert process objectives into **Task statements** in org language; attach K/S; this becomes the operating “backlog” for capability. :contentReference[oaicite:21]{index=21} |
+| **Capability** | Express each capability as a set of **Tasks** with embedded **K/S** and one or more **Competencies** (assessment-ready) to ensure team readiness. :contentReference[oaicite:22]{index=22} |
+| **Governance** | Maintain **interoperability** by avoiding edits to existing TKS/Competency text; govern versions via the NICE Resource Center. :contentReference[oaicite:23]{index=23} |
+| **Operationalizing** | Build **Work Roles** from Tasks (transitive K/S), then staff and measure proficiency via Competency assessments. :contentReference[oaicite:24]{index=24} |
+| **Renewal** | Use the **improvement loop**: update Tasks and Competencies as the mission/tech changes; leverage the Resource Center for updates. :contentReference[oaicite:25]{index=25} |
+
+---
+
+## A7. Implementation Pattern (Five Steps)
+
+1. **Identify Work** → Draft **Task** statements in your language (clear verb, no embedded objective). :contentReference[oaicite:26]{index=26}  
+2. **Attach K/S** → Link the **Knowledge** and **Skill** statements learners need to complete each Task. :contentReference[oaicite:27]{index=27}  
+3. **Bundle as Competency** → Group related TKS with an **assessment method** (lab, test, portfolio). :contentReference[oaicite:28]{index=28}  
+4. **Assemble Work Roles** → Combine Tasks to define roles; K/S flow transitively from the Tasks. :contentReference[oaicite:29]{index=29}  
+5. **Form Teams** → Top-down via **Work Roles** or bottom-up via **Competencies** depending on clarity of work. :contentReference[oaicite:30]{index=30} :contentReference[oaicite:31]{index=31}
+
+---
+
+## A8. Competency Template (Use in this Doctrine)
+
+> Use this table structure (from NICE’s examples) to define Doctrine-aligned Competencies and their assessments. :contentReference[oaicite:32]{index=32}
+
+**Competency Name:**  
+**Description:**  
+**Assessment Method:** (e.g., lab-based demo, exam, portfolio, live exercise)  
+**Task Statements:** (list T#### or your local Task IDs)  
+**Knowledge Statements:** (list K#### or local K IDs)  
+**Skill Statements:** (list S#### or local S IDs)
+
+> **Tip:** If you need different wording, **create a new Competency**; don’t edit an existing NICE Competency’s title/description to preserve interoperability. :contentReference[oaicite:33]{index=33}
+
+---
+
+## A9. Example Doctrine-Aligned Competencies (Notional)
+
+> Replace with your org’s Tasks/K/S once you formalize them.
+
+### A9.1 CTEM-Ready Defender (Notional)
+- **Assessment:** Lab-based purple-team simulation  
+- **Tasks:** Exposure discovery, validate detections, prioritize findings, orchestrate mitigations  
+- **K:** Threat intel sources; detection engineering concepts  
+- **S:** Log analysis; hypothesis-driven investigation; playbook authoring
+
+### A9.2 Cloud-Secure Builder (Notional)
+- **Assessment:** Hands-on build/review of IaC and controls  
+- **Tasks:** Configure identity boundaries, data protections, telemetry by design  
+- **K:** Cloud provider services; encryption modes  
+- **S:** Cloud policy as code; misconfiguration analysis
+
+> These are **local** examples. For official TKS and Work Roles, consult the **NICE Resource Center**. :contentReference[oaicite:34]{index=34}
+
+---
+
+## A10. Governance Notes for Maintainers
+
+- **Version hygiene:** Keep your local TKS/Competency sets versioned; reference the NICE Resource Center for authoritative updates. :contentReference[oaicite:35]{index=35}  
+- **Interoperability:** Avoid modifying **existing** TKS or **existing** Competency titles/descriptions; create new statements/competencies if your context demands. :contentReference[oaicite:36]{index=36} :contentReference[oaicite:37]{index=37}
+- **Learner-centric view:** Remember NICE treats **everyone as a learner** (students, job seekers, employees) progressing across a lifecycle; align your training and career-pathing accordingly. :contentReference[oaicite:38]{index=38}
+
+---
+
 - **Appendix B:** NIST CSF 2.0 Core Functions and Tiers.
 ---
 title: Appendix B — NIST CSF 2.0 Crosswalk
