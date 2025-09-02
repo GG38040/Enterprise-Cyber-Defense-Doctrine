@@ -272,14 +272,6 @@ Use it as a reference when building Profiles (Current/Target), setting Tiers, an
 
 - **Appendix D:** Glossary of Terms.
 
-**Crosswalk Example:**
-
-| Doctrine Pillar | NIST CSF Function |
-|-----------------|-------------------|
-| People          | Govern, Protect   |
-| Process         | Identify, Detect, Respond, Recover |
-| Capability      | Govern, Protect, Detect, Respond |
-
 ---
 
 ## Case Study Example (Notional)
